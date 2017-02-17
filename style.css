@@ -1,5 +1,5 @@
 body {
-    background-color: lightpurple;
+    background-color: rgb(139,0,139);
 }
 
 h1 {
@@ -8,6 +8,6 @@ h1 {
 }
 
 p {
-    font-family: verdana;
+    font-family: monospace;
     font-size: 20px;
 }
