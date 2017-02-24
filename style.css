@@ -10,4 +10,15 @@ h1 {
 p {
     font-family: monospace;
     font-size: 20px;
+    border-color: white;
+    border-style: solid;
+    border-width 2px; 
 }
+
+table, th, td {
+    border: 2px black;
+}
+
+a { 
+    font-size: 20px;
+    
